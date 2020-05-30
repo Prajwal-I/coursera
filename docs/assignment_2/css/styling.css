@@ -17,6 +17,9 @@
 			height: 150px;
 			
 		}
+		.dec:hover{
+			background-color: pink;
+		}
 		.box{
 			width: 100%;
 		}
